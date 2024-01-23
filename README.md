@@ -1,7 +1,8 @@
 # Powerslamverse E-commerce store
 <p>A fullstack ecommerce store for the wrestling company Powerslam Universe.</p>
 
-## Preview
+### Home page preview
+![image](https://github.com/Chelseavb314/RailsEcom/assets/55150598/844d0a7b-8aa7-4627-a23d-05e9c4c14dfa)
 
 ## Pre-requisites
 * have Ruby-On-Rails installed
@@ -18,10 +19,13 @@
 5. Once the app opens in your browser, scroll down until you see a button labelled, "Run pending migrations."
 Press the button.
 ![image](https://github.com/Chelseavb314/RailsEcom/assets/55150598/509d6e35-685a-4e6a-afbe-2001722a8f6b)<br><br>
-6. ... 
+6. Back in terminal, run the following command `rails db:migrate` <br><br>
+7. Reload the page and view the website.<br><br>
+
 
 ## Tech
 * Ruby on Rails
 * Sqlite3 (dev) / PostgreSql (production)
 * stripe - cart checkout
-* deployed to Fly.io
+* previously deployed to Fly.io
+* Styled using Bulma
