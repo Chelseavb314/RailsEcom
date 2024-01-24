@@ -31,5 +31,6 @@
 5. Once the app opens in your browser, scroll down until you see a button labelled, "Run pending migrations."
 Press the button.
 ![image](https://github.com/Chelseavb314/RailsEcom/assets/55150598/509d6e35-685a-4e6a-afbe-2001722a8f6b)<br><br>
-6. Back in terminal, run the following command `rails db:migrate` <br><br>
+6. Back in terminal, run the following command `rails db:seed` <br>
+This command will populate the sqlite3 database with pokemon cards.<br><br>
 7. Reload the page and view the website.<br><br>
