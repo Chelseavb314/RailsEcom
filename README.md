@@ -17,7 +17,7 @@
 * (outdated) deployed to Fly.io
 
 ## Pre-requisites
-* have Ruby-On-Rails installed
+* Ruby-On-Rails installed
 
 ## Setup Instructions
 1. Clone the repository from github<br>
